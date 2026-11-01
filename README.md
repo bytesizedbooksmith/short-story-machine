@@ -2,6 +2,8 @@
 
 Plan a short story step by step with an AI helper, and get a finished first draft to edit however you like.
 
+> **Beta — testers wanted.** This is a first version and hasn't been run on many stories yet. If something confuses you or the AI goes off track, please [open an issue](https://github.com/bytesizedbooksmith/short-story-machine/issues) and say which AI tool you used.
+
 ## Get Started
 
 1. **Download** this folder: green **Code** button → **Download ZIP**, then unzip it.
