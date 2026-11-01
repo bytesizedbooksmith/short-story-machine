@@ -2,6 +2,10 @@
 
 **Word target:** about <n>
 
+## Opening Hook (Scene 1 Only)
+
+<The author's chosen opening. Follow it, and machine/guides/hooks.md.>
+
 ## The Scene Card
 
 - **Purpose:**
@@ -14,6 +18,10 @@
 ## People In This Scene
 
 - **<Name>:** what matters about them here
+
+## Story Rules This Scene Uses
+
+<!-- Background: show through action, don't explain. Only what this scene needs. -->
 
 ## What The Point-Of-View Character Knows
 

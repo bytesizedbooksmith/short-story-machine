@@ -46,6 +46,7 @@
 ## Scene Map
 
 ### Scene 1 — <short name>
+- **Opening hook:** <the first line and what's happening, as chosen by the author>
 - **Purpose:**
 - **Point of view:**
 - **When and where:**

@@ -13,6 +13,8 @@
    - What the point-of-view character knows and doesn't know.
    - A short summary of what has happened so far (blank for Scene 1).
    - **Never** the ending or later twists, unless this scene has to set them up. Then say what to set up, not what it pays off.
+   - Only the story rules this scene actually uses, marked **background: show through action, don't explain**.
+   - For Scene 1, the chosen **Opening hook** first, and a pointer to [../guides/hooks.md](../guides/hooks.md).
 3. **Instruction Conflict Check.** Read the brief, every packet, the style sheet and [../roles/drafter.md](../roles/drafter.md) side by side. Look for:
    - Two rules that can't both be followed ("keep it light" and "graphic violence").
    - Facts that differ between files (a name, an age, a timeline).

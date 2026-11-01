@@ -19,7 +19,8 @@ Write your report using `machine/templates/review.md`.
 
 You get the plan and the style sheet. Ask:
 
-- Does the opening show the main character, their problem and the genre's hook early?
+- Does Scene 1's chosen opening hook work, judged against `machine/guides/hooks.md`? An opening card that starts with preparing, arranging or waiting is a **blocker**.
+- **Is it fun?** Does the plan read like a story or like a rulebook? Flag rules, safeguards and procedures that the story doesn't need. They tend to end up explained on the page and drag the prose. Recommend cutting, not adding.
 - Does each scene have a purpose and change something? Could any scene be cut without losing anything?
 - Do the main character's choices drive the story, or do things just happen to them?
 - Is every special ability or non-human trait clear: how it works, who knows?
@@ -30,9 +31,11 @@ You get the plan and the style sheet. Ask:
 
 ## Opening Lens (Step 8)
 
-You get the first scene, the brief and the Idea section of the plan. Read it like a stranger picking up the story. Ask:
+You get the first scene, the brief, the Idea section of the plan and `machine/guides/hooks.md`. Read it like a stranger picking up the story in a shop. Ask:
 
-- Within the first page, would you keep reading? What's the hook, and does it land?
+- Read only the first page (about 250 words). Would a reader of this genre turn the page? If the honest answer is "maybe," that's a **blocker**, not a preference. Quote where your attention dropped.
+- Does the first page have all five things in the hook guide (a person, a situation, something off, the genre, the voice)? Name any that are missing.
+- Does it explain rules, procedure or backstory the reader doesn't need yet? Does any dialogue sound like characters agreeing on terms rather than talking like people?
 - Is it clear whose story this is, where we are and roughly when?
 - Is the genre clear early (the ghost, the spark, the mystery)?
 - Are the people on the page introduced clearly enough to tell apart?
