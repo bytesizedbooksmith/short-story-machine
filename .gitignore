@@ -1,0 +1,6 @@
+# Your stories and style sheets stay private, even if you fork this kit publicly.
+# To track them in git, put them in a separate private repository, or remove these lines.
+stories/*
+!stories/README.md
+pen-names/*
+!pen-names/README.md

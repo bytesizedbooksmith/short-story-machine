@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Your Story Folder · Short Story Machine</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="top">
+  <a class="brand" href="../START-HERE.html">Short Story Machine</a>
+  <a href="how-it-works.html">How It Works</a>
+  <a href="your-story-folder.html" aria-current="page">Your Story Folder</a>
+  <a href="voice-module.html">Voice Module</a>
+  <a href="help.html">Help</a>
+</nav>
+
+<h1>Your Story Folder</h1>
+<p class="lead">You don't have to manage any files. But here's where things end up, in case you want to look.</p>
+
+<h2>The Two Folders That Are Yours</h2>
+<table>
+  <tr><th>Folder</th><th>What's in it</th></tr>
+  <tr><td><code>pen-names</code></td><td>One folder per pen name, holding its <strong>style sheet</strong>: your preferences, used for every story.</td></tr>
+  <tr><td><code>stories</code></td><td>One folder per story.</td></tr>
+</table>
+<p>Leave the <code>machine</code> and <code>docs</code> folders alone. They're the machine's instructions and this guide.</p>
+
+<h2>Inside A Story</h2>
+<pre>stories/
+  the-haunted-bakery/
+    FINALS/          ← your finished draft and handoff note
+    plan.md          ← your plan: idea, people, shape, scenes
+    PROGRESS.md      ← where you are; how the AI picks up next time
+    writing/         ← scene drafts and the AI's instructions
+    reviews/         ← what each reviewer found
+    archive/         ← older versions, never deleted</pre>
+
+<div class="stop"><strong>The one to remember is <code>FINALS</code>.</strong> When the machine hands off, your draft is there as <em>Story Title — v1.md</em>.</div>
+
+<h2>Opening Your Draft</h2>
+<p>The draft is a plain text file in Markdown format, which most writing tools can open or paste:</p>
+<ul>
+  <li><strong>Word, Google Docs, Scrivener:</strong> open the file in any text editor, copy everything, and paste it in.</li>
+  <li><strong>VS Code or a Markdown editor:</strong> open it directly.</li>
+  <li><strong>Or ask the AI</strong> to make a Word copy, if your tool can create Word files.</li>
+</ul>
+
+<h2>Versions</h2>
+<p>Nothing is ever overwritten. When something changes, the new version gets the next number (<em>v2</em>, <em>v3</em>) and the old one moves to <code>archive</code>.</p>
+
+<h2>Keeping Your Work Private</h2>
+<p>If you put your copy of the machine on GitHub, your <code>stories</code> and <code>pen-names</code> folders are left out automatically. Back them up some other way, such as a cloud-synced folder or a <strong>private</strong> repository.</p>
+
+<footer>
+  Short Story Machine · Angie Hartwell / Byte-Sized Booksmith · <a href="credits.html">Credits And License</a>
+</footer>
+</div>
+</body>
+</html>

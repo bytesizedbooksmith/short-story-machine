@@ -1,0 +1,33 @@
+# Handoff Note — <Story Title>
+
+**Draft:** <Story Title> — v1.md
+**Words:** <count>
+**Date:**
+
+## What Was Checked
+
+| Check | How |
+|---|---|
+| Plan challenge | separate agent / self-review |
+| Opening challenge | separate agent / self-review |
+| Reader audit | separate agent / self-review |
+| Continuity audit | separate agent / self-review |
+| Style audit | separate agent / self-review |
+| Final challenge | separate agent / self-review |
+
+## What Was Fixed
+
+<!-- A few lines, not every comma. -->
+
+## Still Open
+
+<!-- Questions for the author, each with a recommendation. "Nothing open" is fine. -->
+
+## Where I'd Look First When Editing
+
+1.
+2.
+
+## From Here
+
+The draft is yours. Edit it yourself, or ask for help in this chat. The plan, reviews and earlier versions stay in this story's folder if you need them.
