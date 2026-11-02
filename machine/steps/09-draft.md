@@ -6,12 +6,14 @@
 
 ## Do This
 
-For each remaining scene, in order:
+Set the status in `PROGRESS.md` to `drafting`. Then, for each remaining scene, in order:
 
-1. Update that scene's packet with a summary of what actually happened in the scenes drafted so far (from `running-summary.md`), not what the plan expected. If an earlier scene drifted from the plan, check whether this packet still makes sense.
-2. Run the **Drafter** with the brief and this scene's packet only.
-3. Read the result. If it breaks the packet (wrong point of view, skips a planned event, reveals something too early), redraft once with a note on what to fix.
-4. Add two or three lines to `running-summary.md`: what happened, what changed, anything later scenes must remember (an injury, a promise, a broken object).
+1. Update that scene's packet from `running-summary.md`: what actually happened in the scenes drafted so far (not what the plan expected), and every **established fact** to the Fixed Facts list. If an earlier scene drifted from the plan, check whether this packet still makes sense.
+2. Run the **Drafter** with the brief and this scene's packet only. If it returns a question, follow the Guide's rule for Drafter questions.
+3. Read the result. If it breaks the packet (wrong point of view, skips a planned event, reveals something too early, contradicts a fixed fact), redraft once with a note on what to fix.
+4. Add this scene to `running-summary.md`, under its scene number:
+   - **What happened:** two or three lines, including what changed.
+   - **Established facts:** anything a later scene might echo or contradict: exact names of objects and documents as the scene used them ("the day book," not "a log"), who has what and where it is, ages, numbers, times, promises, injuries. If the scene invented a detail the plan didn't have, it goes here.
 5. Update `PROGRESS.md` after each scene, so a `pause` or a closed chat loses nothing.
 
 Don't stop to show the author each scene. Give a short progress line every few scenes if the chat is still open.

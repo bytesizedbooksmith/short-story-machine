@@ -26,6 +26,10 @@
 ### Supporting Cast
 - **<Name>:** role; wants from the main character…
 
+### Fixed Facts
+<!-- Short list of facts that must never change. Every named person, including people only mentioned: age, relationship, one key detail. Plus set times, places, and the exact names of recurring objects and documents. -->
+- **<Name>:** <age>; <relationship>; <key detail>
+
 ### Special Rules
 <!-- How any magic, ability or non-human trait works, and who knows about it. -->
 

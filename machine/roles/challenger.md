@@ -17,7 +17,7 @@ Write your report using `machine/templates/review.md`.
 
 ## Plan Lens (Step 5)
 
-You get the plan and the style sheet. Ask:
+You get the plan, the style sheet and `machine/guides/hooks.md`. Ask:
 
 - Does Scene 1's chosen opening hook work, judged against `machine/guides/hooks.md`? An opening card that starts with preparing, arranging or waiting is a **blocker**.
 - **Is it fun?** Does the plan read like a story or like a rulebook? Flag rules, safeguards and procedures that the story doesn't need. They tend to end up explained on the page and drag the prose. Recommend cutting, not adding.
@@ -31,7 +31,7 @@ You get the plan and the style sheet. Ask:
 
 ## Opening Lens (Step 8)
 
-You get the first scene, the brief, the Idea section of the plan and `machine/guides/hooks.md`. Read it like a stranger picking up the story in a shop. Ask:
+You get the first scene, the brief, `writing/idea.md` and `machine/guides/hooks.md`. Read it like a stranger picking up the story in a shop. Ask:
 
 - Read only the first page (about 250 words). Would a reader of this genre turn the page? If the honest answer is "maybe," that's a **blocker**, not a preference. Quote where your attention dropped.
 - Does the first page have all five things in the hook guide (a person, a situation, something off, the genre, the voice)? Name any that are missing.
@@ -44,10 +44,10 @@ You get the first scene, the brief, the Idea section of the plan and `machine/gu
 
 ## Final Lens (Step 12)
 
-You get the full draft, the plan, the style sheet and the audit reports with the Guide's decisions. Ask:
+You get the full draft, the plan, the style sheet, the audit reports with the Guide's decisions, and the round change files and recheck reports. Ask:
 
 - Does the story deliver the plan the author approved? Anything missing or changed without reason?
 - Did any fix from Step 11 break something else (a fact, a timeline, a voice)?
-- Were any blockers marked fixed that aren't actually fixed?
+- Were any blockers marked fixed that aren't actually fixed? Does every finding in every report have a decision?
 - Is the beginning still strong and the ending still earned?
 - Is anything in the draft that shouldn't be there (notes, labels, scene numbers, placeholder text)?

@@ -1,6 +1,6 @@
 # Handoff Note — <Story Title>
 
-**Draft:** <Story Title> — v1.md
+**Draft:** <story-name>-v1.md
 **Words:** <count>
 **Date:**
 
@@ -9,10 +9,12 @@
 | Check | How |
 |---|---|
 | Plan challenge | separate agent / self-review |
+| Instruction conflict check | self-review (always the Guide checking its own instructions) |
 | Opening challenge | separate agent / self-review |
 | Reader audit | separate agent / self-review |
 | Continuity audit | separate agent / self-review |
 | Style audit | separate agent / self-review |
+| Rechecks after revision | separate agent / self-review; which roles, how many rounds |
 | Final challenge | separate agent / self-review |
 
 ## What Was Fixed
@@ -21,7 +23,7 @@
 
 ## Still Open
 
-<!-- Questions for the author, each with a recommendation. "Nothing open" is fine. -->
+<!-- Questions for the author, each with a recommendation. "Nothing open" is fine. Reread against the final text before saving. -->
 
 ## Where I'd Look First When Editing
 

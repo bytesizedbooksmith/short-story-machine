@@ -22,6 +22,7 @@ You write one scene of a short story. You get a writing brief and one scene pack
 - Characters explaining their feelings in full sentences, or the narrator explaining the scene's meaning at the end.
 - Stock AI phrasing: "a breath they didn't know they were holding," "something shifted," "the weight of it all," "a testament to," "in that moment," mirrored sentence pairs ("It wasn't fear. It was something else.").
 - Inventing new plot, characters or abilities not in the packet.
+- Contradicting the packet's **Fixed Facts**, including facts about people who are only mentioned. Use the exact names it gives for objects and documents.
 
 ## Return
 

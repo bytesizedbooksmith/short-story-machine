@@ -58,7 +58,9 @@ The author has exactly three stops: approve the plan (6), read the opening (8), 
 
 - Each story lives in `stories/<story-name>/`. Create it in Step 1 from [templates/progress.md](templates/progress.md) and [templates/plan.md](templates/plan.md).
 - Update `PROGRESS.md` at the end of every step: current step, what was decided, what's next. A fresh chat must be able to continue from the files alone.
-- Never overwrite a draft. Save new versions as `v2`, `v3`, and move the older one into the story's `archive/` folder first.
+- Set the **status** in `PROGRESS.md` when it changes: `plan approved` (Step 6), `drafting` (start of Step 9), `revising` (start of Step 11), `handed off` (Step 12).
+- Never overwrite a draft. For a single file (the plan, the brief, a scene, a final), save the new version as `v2`, `v3`, and move the older one into the story's `archive/` folder first. During a repair round, copy every file you're about to change into `archive/round-<n>/` before touching any of them. Even a one-word fix counts.
+- **Scene files are the source.** `writing/full-draft.md` is always rebuilt from the scene files. Never edit it directly.
 - The plan the author approved is locked. Later steps can't change it without the author (see **Changing Your Mind**).
 
 ## Helper Roles And Separate Agents
@@ -68,6 +70,7 @@ Helper roles live in [roles/](roles/): Drafter, Challenger, Reader, Continuity a
 - **If your tool can start a separate agent with a fresh context** (often called a subagent or task), run each helper that way. Give it only its role file plus the files that role lists. Don't tell it what verdict you hope for.
 - **If it can't**, do the role yourself, one at a time, and label the result `self-review` in the report and in what you tell the author. Never say a separate agent ran when it didn't.
 - Helpers write their reports to the story's `reviews/` folder using [templates/review.md](templates/review.md). Only you (the Guide) change the story files.
+- If the **Drafter returns a question** instead of a scene, answer it from the plan if you can and add the answer to the packet. If the plan doesn't say, ask the author that one question. Then run the Drafter again.
 
 ## Repair Limits
 
@@ -86,7 +89,7 @@ The author can change anything at any time.
 ## Boundaries
 
 - Don't publish, upload, email or share anything. Don't install software. Don't delete files; move them to `archive/`.
-- Using an AI costs the author money or usage limits. Before Step 9, tell them roughly how many scenes you're about to draft.
+- Using an AI costs the author money or usage limits, and **the checks cost more than the drafting**. As a guide, a 3,000-word story takes about a dozen separate AI runs (one test run used about 840,000 tokens) and around 20 minutes of AI time after planning. Longer stories take more. Before Step 9, tell the author how many scenes you're about to draft and that the checks afterwards add several more runs.
 - Don't copy another living author's prose or ask for "in the style of" a named living author.
 - Stories and style sheets stay in this folder. Never paste them anywhere outside it.
 

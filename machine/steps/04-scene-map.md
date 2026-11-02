@@ -15,7 +15,7 @@
    - **What changes:** how things are different at the end of the scene.
    - **Knows / doesn't know:** what the point-of-view character knows at this moment, and anything important they don't know yet.
 3. Check the **timeline**. If the story has a deadline or a countdown, make sure the events can actually fit in the time given. ("The show starts in six minutes" can't hold three conversations and a costume change.)
-4. Check that every person who matters is **introduced before they're needed**.
+4. Check that every person who matters is **introduced before they're needed**. Then add to the plan's **Fixed Facts**: set times (a train, a deadline), key places, and the exact names of recurring objects and documents (the "day book," not sometimes the "ledger"). Anyone new in the scene map gets their facts too.
 5. Show the author the map as a short list (scene number, purpose, one line of what happens). Ask if anything's missing, in the wrong order, or unnecessary. They don't need to check every detail.
 6. **Choose the opening.** Read [../guides/hooks.md](../guides/hooks.md). Then offer the author **three genuinely different openings** for Scene 1, each as a sample first line plus one sentence on what's happening. Use different ways in from the guide (for example the arrival, the magic misbehaving, mid-problem). Mark your recommendation. None of them should open on preparing, arranging or waiting.
 7. Put their choice at the top of Scene 1's card as **Opening hook:** and make the card's first bullet match it. Background the hook doesn't need moves later in the scene or out of it.

@@ -15,9 +15,13 @@
   -
 - **What changes by the end:**
 
-## People In This Scene
+## People In This Scene Or Mentioned
 
 - **<Name>:** what matters about them here
+
+## Fixed Facts
+
+<!-- The plan's full Fixed Facts list, plus facts established in earlier scenes (from the running summary). Never contradict these. -->
 
 ## Story Rules This Scene Uses
 

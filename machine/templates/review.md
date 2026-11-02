@@ -19,4 +19,6 @@
 
 ## Decisions
 
-<!-- Added by the Guide: for each finding, fixed / rejected (reason) / ask the author. -->
+Filled in by the Guide, one line per finding: fixed / rejected (reason) / ask the author. Keep this heading even if the reviewer found nothing.
+
+- 1. 
