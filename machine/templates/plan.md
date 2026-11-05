@@ -27,7 +27,7 @@
 - **<Name>:** role; wants from the main character…
 
 ### Fixed Facts
-<!-- Short list of facts that must never change. Every named person, including people only mentioned: age, relationship, one key detail. Plus set times, places, and the exact names of recurring objects and documents. -->
+<!-- Short list of facts that must never change. Every named person, including people only mentioned: age, relationship, one key detail. Plus set times, places, and what recurring objects and documents are. -->
 - **<Name>:** <age>; <relationship>; <key detail>
 
 ### Special Rules

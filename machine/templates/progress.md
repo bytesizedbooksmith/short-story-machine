@@ -1,5 +1,7 @@
 # Progress — <Story Title>
 
+<!-- Keep this file short. Replace this top block when things change; don't stack updates. Tick each step when it's done. -->
+
 **Status:** planning
 <!-- planning | plan approved | drafting | revising | handed off -->
 **Pen name:** <pen name> (style sheet: `pen-names/<pen-name>/style-sheet.md`)

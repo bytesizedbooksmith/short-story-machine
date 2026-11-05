@@ -11,8 +11,8 @@
 3. Write one **packet per scene**. Each packet holds only what the Drafter needs for that scene:
    - The scene card.
    - Every named person who appears **or is mentioned**, and what matters about them here.
-   - The plan's full **Fixed Facts** list (it's short; include all of it).
-   - What the point-of-view character knows and doesn't know.
+   - The **Fixed Facts** this scene could use or contradict. Leave out later reveals and twists. If the Drafter must stay consistent with something the character doesn't know, list it under **Hidden: don't reveal or hint**.
+   - What the point-of-view character knows at the start of the scene, learns during it, believes but may be wrong about, and doesn't know yet. Use the rule in [../guides/scenes.md](../guides/scenes.md).
    - A short summary of what has happened so far (blank for Scene 1).
    - **Never** the ending or later twists, unless this scene has to set them up. Then say what to set up, not what it pays off.
    - Only the story rules this scene actually uses, marked **background: show through action, don't explain**.

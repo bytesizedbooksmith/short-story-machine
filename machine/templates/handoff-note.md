@@ -1,6 +1,7 @@
 # Handoff Note — <Story Title>
 
 **Draft:** <story-name>-v1.md
+**These checks cover:** v1
 **Words:** <count>
 **Date:**
 

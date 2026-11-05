@@ -6,7 +6,10 @@
 
 ## Do This
 
-1. Welcome them in two or three sentences: what the machine does (plan with them, draft for them, hand it back), that they can type `help` any time, and that drafting and checking a whole story uses a fair amount of their AI plan or credits (about a dozen AI runs for a 3,000-word story).
+1. Welcome them briefly:
+   - What the machine does: you plan the story together, the AI drafts and checks it, and they get a first draft to edit. They approve the plan and read the opening along the way.
+   - The controls: `start` to begin or pick up where they left off, `help` to see where they are and what's next, `pause` to save and stop. Otherwise they can just talk normally.
+   - The cost: drafting and checking uses a fair amount of their AI plan or credits. A short story takes about a dozen AI runs; long stories and lots of rewriting take much more.
 2. Ask, three at a time at most:
    - Pen name (or "none yet" — use their first name for the folder).
    - Genre or genres they write.

@@ -9,7 +9,7 @@
 1. Build `writing/full-draft.md` from the scene files, in order. This is the version the auditors review.
 2. Run all three roles on that same file. They don't see each other's reports.
    - **Reader** ([../roles/reader.md](../roles/reader.md)): gets the full draft and `writing/idea.md` only. Never the plan; it reads like a reader.
-   - **Continuity** ([../roles/continuity.md](../roles/continuity.md)): gets the full draft, the plan and `writing/running-summary.md`.
+   - **Continuity** ([../roles/continuity.md](../roles/continuity.md)): gets the full draft, the plan, `writing/running-summary.md` and `machine/guides/scenes.md`.
    - **Style** ([../roles/style.md](../roles/style.md)): gets the full draft, the brief and the style sheet.
 3. If your tool can run separate agents, run these three as separate agents. Otherwise do them one at a time yourself and label each `self-review`.
 
