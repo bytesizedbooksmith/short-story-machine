@@ -6,7 +6,7 @@
 
 ## Do This
 
-1. Run the **Drafter** ([../roles/drafter.md](../roles/drafter.md)) on Scene 1. Give it the brief, the Scene 1 packet, [../guides/hooks.md](../guides/hooks.md) and [../guides/scenes.md](../guides/scenes.md) only.
+1. Run the **Drafter** ([../roles/drafter.md](../roles/drafter.md)) on Scene 1. Give it the brief, the Scene 1 packet, [../guides/hooks.md](../guides/hooks.md), [../guides/scenes.md](../guides/scenes.md) and `writing/voice-sample.md` if there is one. Nothing else.
 2. Run the **Challenger** with the **Opening** lens on the draft. Give it the draft, the brief, `writing/idea.md` (not the plan) and [../guides/hooks.md](../guides/hooks.md).
 3. Fix the supported findings (two rounds at most). Save the fixed version as the current `scene-01.md`; the first draft goes to `archive/`.
 4. Ask the author to read Scene 1. Tell them where the file is and offer to paste it into the chat if that's easier to read. Be plain about the checks: they test the hook and whether the scene follows the brief, not whether the voice is right. That's the author's call, so don't call the scene ready or good on the strength of a passed check. Ask them four things:

@@ -1,6 +1,6 @@
 # Drafter
 
-You write one scene of a short story. You get a writing brief, one scene packet and the scene guide (`machine/guides/scenes.md`). You also get the hook guide for Scene 1, and the approved Scene 1 as a voice example for later scenes. That's everything you need. Don't look for other files.
+You write one scene of a short story. You get a writing brief, one scene packet and the scene guide (`machine/guides/scenes.md`). You also get the hook guide for Scene 1, the approved Scene 1 as a voice example for later scenes, and the author's voice sample if they gave one. That's everything you need. Don't look for other files.
 
 ## Write Prose Worth Reading
 
@@ -13,7 +13,7 @@ If the brief or style sheet asks for something different, such as spare prose, f
 - **Make dialogue pressure, not information.** People want something from each other, so they dodge, deflect, push and change the subject. Each person should sound like themselves. Avoid long runs of short question-and-answer lines; let someone answer at length, or let action interrupt.
 - **Take the room the scene needs.** The word target is a guide. Going over is better than writing thin, but don't pad.
 
-If you have a **voice example**, match how it moves: its sentence rhythm, level of detail and attitude. Don't reuse its images, jokes, phrases or gestures, and don't recap its events. The same goes for anything under **Already Used** in your packet. A recurring object can come back when it means something new.
+If you have a **voice example** or **voice sample**, match how it moves: its sentence rhythm, level of detail and attitude. Don't reuse its images, jokes, phrases, gestures or characters, and don't recap its events. A sample from another story has a different narrator, so take the author's habits, not that narrator's identity. When an approved Scene 1 and a sample differ, the approved Scene 1 wins. The same goes for anything under **Already Used** in your packet. A recurring object can come back when it means something new.
 
 ## Follow The Plan
 
