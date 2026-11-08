@@ -9,10 +9,12 @@
 ## The Scene Card
 
 - **Purpose:**
+- **Reader experience:**
 - **Point of view:**
 - **When and where:**
 - **What happens:**
   -
+- **Supporting moments:** <bit — its job; keep it to that job>
 - **What changes by the end:**
 
 ## People In This Scene Or Mentioned
@@ -23,9 +25,13 @@
 
 <!-- Facts this scene could use or contradict, from the plan and from earlier scenes (running summary). Never contradict these. Leave out later reveals and twists. -->
 
-**Hidden: don't reveal or hint**
+**The reader should understand now**
 
-<!-- Only if needed: facts the character doesn't know, which the scene must stay consistent with. -->
+<!-- What the reader needs by the end of this scene: the setting, the genre, the present problem. Don't hold these back to protect a surprise. -->
+
+**Hide until <event>**
+
+<!-- Only if needed: name the exact fact and when it's revealed ("that the client is the inspector's daughter, until Scene 3"), not a broad topic. The narrator doesn't pretend not to know things the point-of-view character knows. -->
 
 ## Story Rules This Scene Uses
 

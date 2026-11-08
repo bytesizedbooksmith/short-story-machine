@@ -15,7 +15,7 @@
    - Anything about the voice you'd change (too formal, too chatty, too thin, too much description)?
    - Does the dialogue sound like these people? Is any exchange flat or too back-and-forth?
 5. Turn their answers into changes:
-   - **Fix this scene:** revise Scene 1 and show them the result.
+   - **Fix this scene:** write the revision request first (see **Asking For A Revision** in the Guide), revise Scene 1 and show them the result.
    - **Applies to the whole story** (a voice note like "less description," "more contractions"): add it to the brief, and ask whether it should go in their pen name's style sheet for future stories too.
    - **They share an example they like** (another opening, a passage from a book): say in one or two lines *what makes it work* (for example "the client's request is the first line of dialogue") and apply that. Don't turn the example into a list of things not to copy; banning its details steers the draft away from what the author liked.
 6. Repeat until they're happy with Scene 1.

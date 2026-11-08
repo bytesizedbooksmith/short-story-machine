@@ -52,10 +52,12 @@
 ### Scene 1 — <short name>
 - **Opening hook:** <the first line and what's happening, as chosen by the author>
 - **Purpose:**
+- **Reader experience:**
 - **Point of view:**
 - **When and where:**
 - **What happens:**
   -
+- **Supporting moments:** <bit — atmosphere / character beat / setup / subplot>
 - **What changes:**
 - **Knows / doesn't know:**
 - **Word target:** about <n>

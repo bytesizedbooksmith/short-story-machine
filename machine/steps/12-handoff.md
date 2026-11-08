@@ -25,4 +25,4 @@ Help them. Make each requested change, save a new version (`-v2`, `-v3`) in `FIN
 
 Then update the handoff note, replacing old details rather than adding new sections on top: the **Draft** filename, **Words**, **These checks cover**, and the **Still Open** list (remove anything the edit answered). Note the edit in `PROGRESS.md`.
 
-**Tell the author which checks the new version hasn't had.** After a change that touches more than a few lines, offer one recheck: **Continuity** on the facts, and **Style** on repetition only. Say it uses more of their plan. If they say yes, save the reports as `reviews/recheck-continuity-v<n>.md` and `reviews/recheck-repetition-v<n>.md`, then give them the findings. Fix only what they choose.
+**Tell the author which checks the new version hasn't had.** After a change that touches more than a few lines, offer one recheck: **Continuity** on the facts, including anything that depended on cut material, and **Style** on repetition only. Say it uses more of their plan. If they say yes, save the reports as `reviews/recheck-continuity-v<n>.md` and `reviews/recheck-repetition-v<n>.md`, then give them the findings. Fix only what they choose.

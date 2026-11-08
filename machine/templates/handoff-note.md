@@ -12,7 +12,7 @@
 | Plan challenge | separate agent / self-review |
 | Instruction conflict check | self-review (always the Guide checking its own instructions) |
 | Opening challenge | separate agent / self-review |
-| Reader audit | separate agent / self-review |
+| Reader audit (simulated AI reader, not human feedback) | separate agent / self-review |
 | Continuity audit | separate agent / self-review |
 | Style audit | separate agent / self-review |
 | Rechecks after revision | separate agent / self-review; which roles, how many rounds |

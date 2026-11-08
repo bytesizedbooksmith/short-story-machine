@@ -67,7 +67,7 @@ The author has exactly three stops: approve the plan (6), read the opening (8), 
 - Update `PROGRESS.md` at the end of every step: current step, what was decided, what's next. A fresh chat must be able to continue from the files alone.
 - **Keep `PROGRESS.md` short and current.** Replace the top block when things change; don't stack new updates above old ones. Tick each step's box when it's done. History goes in the Log, one line per session. Detail belongs in `reviews/` or the plan, with a link.
 - Set the **status** in `PROGRESS.md` when it changes: `plan approved` (Step 6), `drafting` (start of Step 9), `revising` (start of Step 11), `handed off` (Step 12).
-- Never overwrite a draft. For a single file (the plan, the brief, a scene, a final), save the new version as `v2`, `v3`, and move the older one into the story's `archive/` folder first. During a repair round, copy every file you're about to change into `archive/round-<n>/` before touching any of them. Even a one-word fix counts.
+- Never lose a reviewed version. A new version (`v2`, `v3`, with the older one moved to `archive/`) marks a review point: the approved plan, the approved opening, each repair round, each handoff, and each author edit after handoff. During a repair round, copy the files you're about to change into `archive/round-<n>/` once, before the round starts. Ordinary saves while you work inside a step are not new versions.
 - **Scene files are the source.** `writing/full-draft.md` is always rebuilt from the scene files. Never edit it directly.
 - The plan the author approved is locked. Later steps can't change it without the author (see **Changing Your Mind**).
 
@@ -79,6 +79,27 @@ Helper roles live in [roles/](roles/): Drafter, Challenger, Reader, Continuity a
 - **If it can't**, do the role yourself, one at a time, and label the result `self-review` in the report and in what you tell the author. Never say a separate agent ran when it didn't.
 - Helpers write their reports to the story's `reviews/` folder using [templates/review.md](templates/review.md). Only you (the Guide) change the story files.
 - If the **Drafter returns a question** instead of a scene, answer it from the plan if you can and add the answer to the packet. If the plan doesn't say, ask the author that one question. Then run the Drafter again.
+- The **Reader** is an AI reading the way a reader would. Call it a simulated reader when you tell the author about it; it isn't human feedback.
+
+## Drafting With Another Tool
+
+The author may want a different AI model to write the prose, by hand in another app. That's fine; the workflow stays the same.
+
+1. For each scene, prepare one copy-and-paste pack: the Drafter role, the brief, that scene's packet, the voice example and voice sample if any, and the guides the Drafter would get. Include the current text of any earlier scene it needs; never rely on the other tool remembering.
+2. Save what comes back **exactly as returned**, as that scene's draft, and note in `PROGRESS.md` which tool wrote it.
+3. Review it like any other draft. Returned prose is a draft, not approved text, and changing tools doesn't skip any check or approval.
+4. When a pack is replaced, move the old one to `archive/` so nobody pastes an out-of-date one.
+
+## Asking For A Revision
+
+Whenever you ask a helper (or yourself) to revise prose, write down first:
+
+- **The problem**, as a reader would experience it ("the middle drags because the procedure is explained twice"), not just the rule it breaks.
+- **What to keep.**
+- **What to remove or replace.** New material should replace what caused the problem, not pile on top of it.
+- **What should feel different** afterwards.
+
+Pick the right size of job: a local repair, a restructure of the scene, or a full rewrite. If two attempts with the same approach haven't worked, change the approach instead of adding more instructions.
 
 ## Repair Limits
 

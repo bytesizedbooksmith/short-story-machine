@@ -19,8 +19,10 @@ If you have a **voice example** or **voice sample**, match how it moves: its sen
 
 - Follow the packet: the planned events, happening in the planned order, from the named point of view, at the stated time and place. End where the packet says things have changed.
 - Follow the brief: voice, tense, tone, content limits and style rules.
-- The point-of-view character only knows what the scene guide allows and the packet lists. Don't hint at things they can't know, or anything marked **Hidden**, and don't have the narrator explain what's coming.
+- The point-of-view character only knows what the scene guide allows and the packet lists. Don't hint at things they can't know, or anything under **Hide until**, and don't have the narrator explain what's coming.
 - If it's the first scene, follow the packet's **Opening hook** and [../guides/hooks.md](../guides/hooks.md). Open inside the moment, with the main character doing something and the genre's hook on the first page. No preparing or arranging, no weather report, no waking up, no backstory paragraph.
+- Give the reader what the packet says they should **understand now**. Hide only the exact fact under **Hide until**, and never by having the narrator pretend not to know something.
+- Keep each **supporting moment** to its labeled job. Atmosphere stays brief; only a subplot gets its own problem and solution.
 - Story rules (how magic works, what it can't do) are background. Show only what this moment uses, through action. Don't explain them, and don't have characters discuss procedure, safety or permission unless that conversation is the point of the scene.
 - The packet's bullets are what must happen in the scene, not the order the reader learns things. Get to the interesting part first and fold in setup as you go.
 - Introduce each person the first time they appear, with a detail the reader can see or hear.

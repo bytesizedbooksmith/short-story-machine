@@ -11,7 +11,9 @@
 3. Write one **packet per scene**. Each packet holds only what the Drafter needs for that scene:
    - The scene card.
    - Every named person who appears **or is mentioned**, and what matters about them here.
-   - The **Fixed Facts** this scene could use or contradict. Leave out later reveals and twists. If the Drafter must stay consistent with something the character doesn't know, list it under **Hidden: don't reveal or hint**.
+   - The **Fixed Facts** this scene could use or contradict. Leave out later reveals and twists.
+   - **The reader should understand now:** the setting, genre and present problem the reader needs by the end of the scene. Protecting a later surprise is never a reason to blur these.
+   - **Hide until <event>:** only if needed, the exact fact being protected and where it's revealed, not a broad topic.
    - What the point-of-view character knows at the start of the scene, learns during it, believes but may be wrong about, and doesn't know yet. Use the rule in [../guides/scenes.md](../guides/scenes.md).
    - A short summary of what has happened so far (blank for Scene 1).
    - **Never** the ending or later twists, unless this scene has to set them up. Then say what to set up, not what it pays off.

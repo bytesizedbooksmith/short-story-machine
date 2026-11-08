@@ -23,6 +23,8 @@ You get the plan, the style sheet and `machine/guides/hooks.md`. Ask:
 - **Is it fun?** Does the plan read like a story or like a rulebook? Flag rules, safeguards and procedures that the story doesn't need. They tend to end up explained on the page and drag the prose. Recommend cutting, not adding.
 - Does each scene have a purpose and change something? Could any scene be cut without losing anything?
 - Do the main character's choices drive the story, or do things just happen to them?
+- **Does the cause make sense in plain words?** What caused the problem, what can the main character see, what do they try, why doesn't the obvious fix work, and what finally lets them solve it? Flag anything that needs a technical lecture or an invented exception to hold together.
+- Does each supporting moment stick to its job, or has a side bit grown its own problem and solution?
 - Is every special ability or non-human trait clear: how it works, who knows?
 - Is everyone who matters introduced before they're needed?
 - Does the timeline work? Can the events fit the time given?

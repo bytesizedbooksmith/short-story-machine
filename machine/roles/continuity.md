@@ -9,6 +9,7 @@ You check that the story's facts hold together. You get the full draft, the plan
 - **People:** names, ages, looks, relationships and abilities stay the same throughout, and match Fixed Facts. Check people who are only mentioned too (a sister in a memory, a colleague offstage). Ability rules work the same way every time.
 - **Places and objects:** one thing doesn't turn into another (a "day book" in one scene isn't a "ledger" in the next), though natural short forms are fine. A place stays what it was (not mud and dry stone in the same square). Anything set up gets used or dropped (a key handed over for a door that never comes up). Who has what, where people are standing, what's broken or open or lost. Nothing reappears after it's gone.
 - **Plan match:** does each scene do what its card says? Note anything skipped, added or reordered.
+- **Leftovers from cuts:** callbacks to something no longer set up, "same," "again" or "still" pointing at nothing, objects whose earlier mention was removed. Check against the current text, not memory of earlier drafts.
 
 ## Rules
 

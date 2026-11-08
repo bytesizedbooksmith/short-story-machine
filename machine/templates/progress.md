@@ -9,6 +9,10 @@
 **Next:** <one line: what happens next>
 **Waiting on the author for:** <nothing, or the specific question>
 
+**Approvals:** plan <date> · opening <date> · approved to continue <yes/no> · line edits deferred <yes/no> · final text accepted <date or "not yet">
+<!-- Separate things. Deferred line edits don't block drafting, and "approved to continue" isn't final acceptance. Once the author says to continue, keep going; don't ask again scene by scene. -->
+**Current draft:** <path> · **Drafted by:** <this tool, or the other tool used>
+
 ## Steps
 
 - [ ] 1 Idea
